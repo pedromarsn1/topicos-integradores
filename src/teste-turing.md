@@ -1,4 +1,4 @@
-#TESTE DE TURING
+# TESTE DE TURING
 
 **O que é?**
 - Ele faz com que saibamos a forma de raciocinar de determinada máquina, que lógica ela segue, quais os padrões que são usados para o processamento de dados.
