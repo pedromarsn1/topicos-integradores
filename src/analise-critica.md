@@ -1,4 +1,4 @@
-#Análise Crítica do Filme: O JOGO DA IMITAÇÃO#
+*Análise Crítica do Filme: O JOGO DA IMITAÇÃO*
 
 - O jogo da imitação conta a história de Turing, um inglês com uma capacidade de raciocínio fora do comum, que consegue resolver o problema no qual o comandante inglês precisava: decodificar as informações que os alemães usavam para se comunicar. Sabendo disso, eles poderiam ganhar vantagem sobre as tropas da Alemanha, e consequentemente, ganhando a segunda guerra mundial também. 
 
