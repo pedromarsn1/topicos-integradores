@@ -1,4 +1,4 @@
-# Linguagem de máquina
+# Aprendizagem de máquina
 
 ## Quais os tipos de aprendizagem de
 máquina e suas definições.
