@@ -1,6 +1,6 @@
 # Aprendizagem de máquina
 
-## Quais os tipos de aprendizagem de máquina e suas definições.
+## Quais os tipos de aprendizagem de máquina e suas definições?
 
 - supervisonado : é responsável por analisar os dados e fazer determinada ação de acordo com determinado padrão explicitamente.
 - não supervisionado: funciona como se o algoritmo fosse treinado para descobrir padrões que podem ou não estarem rotulados.
